@@ -9,4 +9,4 @@ _Figure: Median (colored lines) and 5th and 95th percentile (shading) of the OGG
 
 ## Data availability
 
-The repository contains ...
+The repository contains regional totals of glacier area and volume for each GCM realisation and temperature level. For glacier specific data, please contact us by opening an issue!
