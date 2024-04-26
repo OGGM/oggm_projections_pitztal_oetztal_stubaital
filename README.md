@@ -1,5 +1,7 @@
 # OGGM Projections for Pitztal, Ötztal and Stubaital
 
+[![DOI](https://zenodo.org/badge/791932856.svg)](https://zenodo.org/doi/10.5281/zenodo.11072662)
+
 This repository contains OGGM projections for Pitztal, Ötztal and Stubaital. It is work in progress and will be updated regularly to accompany an upcoming publication. We don't expect any change to the results before submission.
 
 We used [OGGM v1.6.1](https://zenodo.org/badge/latestdoi/43965645) calibrated it with high resolution, regionally aquired data (Hartl et al., in prep) for the 1980-2023 period. For the projections (2023-2100) we used all available CMIP5 and CMIP6 climate projections, as described for the ['OGGM standard projections'](https://github.com/OGGM/oggm-standard-projections-csv-files). We aggregated these scenarios into global temperature increase levels +1.5°C, +2.0°C, +3.0°C and +4.0°C compared to preindustrial levels, following the methodology of [Rounce et al. (2023)](https://doi.org/10.1126/science.abo1324).
